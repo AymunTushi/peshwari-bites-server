@@ -1,0 +1,395 @@
+[
+    {
+        "id": 1,
+        "category_id":2,
+        "recipeName": "Chapli Kebab",
+        "ingredients": [
+            "500g ground beef or lamb",
+            "1 onion, finely chopped",
+            "2 tomatoes, finely chopped",
+            "2 green chilies, finely chopped",
+            "1 egg",
+            "2 tbsp coriander leaves, chopped",
+            "2 tbsp pomegranate seeds (anardana)",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "1/2 tsp red chili powder",
+            "Salt to taste",
+            "Oil for frying"
+        ],
+        "cookingMethod": [
+            "In a bowl, combine the ground meat, chopped onion, tomatoes, green chilies, coriander leaves, pomegranate seeds, cumin powder, coriander powder, red chili powder, salt, and egg.",
+            "Mix well to form a uniform mixture.",
+            "Shape the mixture into flat, round kebabs.",
+            "Heat oil in a pan over medium heat.",
+            "Fry the kebabs until they are golden brown and cooked through.",
+            "Serve hot with naan or roti."
+        ]
+    },
+    {
+        "id": 2,
+        "category_id":1,
+        "recipeName": "Seekh Kebab",
+        "ingredients":[
+            "500g ground beef or lamb",
+            "1 onion, finely chopped",
+            "2 green chilies, finely chopped",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "1/2 tsp garam masala",
+            "Salt to taste",
+            "Wooden skewers, soaked in water",
+            "Oil for grilling"
+        ],
+        "cookingMethod": [
+            "In a bowl, mix the ground meat, chopped onion, green chilies, ginger-garlic paste, cumin powder, coriander powder, garam masala, and salt.",
+            "Divide the mixture into portions and shape each portion onto a wooden skewer, forming a cylindrical kebab.",
+            "Preheat a grill or barbecue.",
+            "Brush the kebabs with oil and grill them, turning occasionally, until cooked and slightly charred.",
+            "Serve with naan, raita, and chutney."
+        ]
+    },
+    {
+        "id": 3,
+        "category_id":2,
+        "recipeName": "Peshawari Chana Karahi",
+    "ingredients": [
+        "2 cups chickpeas (precooked or canned)",
+        "2 onions, finely chopped",
+        "2 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+    "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the chopped onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add chopped tomatoes and cook until they turn soft and the oil starts to separate.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Add pre-cooked chickpeas and mix with the masala.",
+        "Cook for a few minutes, allowing the flavors to meld.",
+        "Garnish with chopped coriander leaves and green chilies. Serve with naan or rice."
+    ]
+    },
+    {
+        "id": 4,
+        "category_id":1,
+        "recipeName": "Chapli Kebab",
+        "ingredients": [
+            "500g ground beef or lamb",
+            "1 onion, finely chopped",
+            "2 tomatoes, finely chopped",
+            "2 green chilies, finely chopped",
+            "1 egg",
+            "2 tbsp coriander leaves, chopped",
+            "2 tbsp pomegranate seeds (anardana)",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "1/2 tsp red chili powder",
+            "Salt to taste",
+            "Oil for frying"
+        ],
+        "cookingMethod": [
+            "In a bowl, combine the ground meat, chopped onion, tomatoes, green chilies, coriander leaves, pomegranate seeds, cumin powder, coriander powder, red chili powder, salt, and egg.",
+            "Mix well to form a uniform mixture.",
+            "Shape the mixture into flat, round kebabs.",
+            "Heat oil in a pan over medium heat.",
+            "Fry the kebabs until they are golden brown and cooked through.",
+            "Serve hot with naan or roti."
+        ]
+    },
+    {
+        "id": 5,
+        "category_id":2,
+        "recipeName": "Peshawari Karahi (Chicken)",
+        "ingredients": [
+            "1 kg chicken, cut into pieces",
+            "2 onions, sliced",
+            "4 tomatoes, chopped",
+            "2 green chilies, chopped",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "Salt to taste",
+            "Fresh coriander leaves, chopped",
+            "Cooking oil or ghee"
+        ],
+        "cookingMethod": [
+            "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+            "Add ginger-garlic paste and sauté for a minute.",
+            "Add chicken pieces and cook until they change color.",
+            "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+            "Cover and cook until the chicken is tender and the masala is cooked.",
+            "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+            "Garnish with chopped coriander leaves and serve with naan or roti."
+        ]
+    },
+    {
+        "id": 6,
+        "category_id":1,
+        "recipeName": "Peshawari Karahi (Chicken)",
+        "ingredients": [
+        "1 kg chicken, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add chicken pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the chicken is tender and the masala is cooked.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve with naan or roti."
+    ]
+    },
+    {
+        "id": 7,
+        "category_id":3,
+        "recipeName": "Peshawari Karahi (Chicken)",
+        "ingredients": [
+        "1 kg chicken, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add chicken pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the chicken is tender and the masala is cooked.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve with naan or roti."
+    ]
+    },
+    {
+        "id": 8,
+        "category_id":4,
+        "recipeName": "Peshawari Karahi (Chicken)",
+        "ingredients": [
+        "1 kg chicken, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add chicken pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the chicken is tender and the masala is cooked.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve with naan or roti."
+    ]
+    },
+    {
+        "id": 9,
+        "category_id":3,
+        "recipeName": "Namak Mandi Karahi",
+        "ingredients": [
+        "1 kg lamb or goat meat, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add the meat pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the meat is tender and oil separates from the masala.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve hot with naan or roti."
+    ]
+    },
+    {
+        "id": 10,
+        "category_id":4,
+        "recipeName": "Namak Mandi Karahi",
+        "ingredients": [
+        "1 kg lamb or goat meat, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add the meat pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the meat is tender and oil separates from the masala.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve hot with naan or roti."
+    ]
+    },
+    {
+        "id": 11,
+        "category_id":3,
+        "recipeName": "Peshawari Chana Karahi",
+    "ingredients": [
+        "2 cups chickpeas (precooked or canned)",
+        "2 onions, finely chopped",
+        "2 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+    "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the chopped onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add chopped tomatoes and cook until they turn soft and the oil starts to separate.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Add pre-cooked chickpeas and mix with the masala.",
+        "Cook for a few minutes, allowing the flavors to meld.",
+        "Garnish with chopped coriander leaves and green chilies. Serve with naan or rice."
+    ]
+    },
+    {
+        "id": 12,
+        "category_id":4,
+        "recipeName": "Namak Mandi Karahi",
+        "ingredients": [
+        "1 kg lamb or goat meat, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add the meat pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the meat is tender and oil separates from the masala.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve hot with naan or roti."
+    ]
+    },
+    {
+        "id": 4,
+        "category_id":6,
+        "chef": "chef5",
+        "title": "Recipe 4",
+        "description": "Description for Recipe 4"
+    },
+    {
+        "id": 6,
+        "category_id":5,
+        "recipeName": "Peshawari Karahi (Chicken)",
+       "ingredients": [
+        "1 kg chicken, cut into pieces",
+        "2 onions, sliced",
+        "4 tomatoes, chopped",
+        "2 green chilies, chopped",
+        "2 tbsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "Salt to taste",
+        "Fresh coriander leaves, chopped",
+        "Cooking oil or ghee"
+    ],
+        "cookingMethod": [
+        "Heat oil or ghee in a karahi (wok) and sauté the sliced onions until golden brown.",
+        "Add ginger-garlic paste and sauté for a minute.",
+        "Add chicken pieces and cook until they change color.",
+        "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+        "Cover and cook until the chicken is tender and the masala is cooked.",
+        "Add chopped tomatoes and green chilies. Cook until tomatoes are soft.",
+        "Garnish with chopped coriander leaves and serve with naan or roti."
+    ]
+    },
+    {
+        "id": 8,
+        "category_id":6,
+        "chef": "chef5",
+        "title": "Recipe 8",
+        "description": "Description for Recipe 8"
+    },
+    {
+        "id": 5,
+        "category_id":5,
+        "chef": "chef6",
+        "title": "Recipe 5",
+        "description": "Description for Recipe 5"
+    },
+    {
+        "id": 7,
+        "category_id":6,
+        "chef": "chef6",
+        "title": "Recipe 7",
+        "description": "Description for Recipe 7"
+    },
+    {
+        "id": 9,
+        "category_id":5,
+        "chef": "chef6",
+        "title": "Recipe 9",
+        "description": "Description for Recipe 9"
+    }
+]

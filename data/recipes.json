@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "chefName": "Maria Garcia",
+      "yearsOfExperience": 12,
+      "numOfRecipes": 150,
+      "likes": 1200,
+      "chefPicture": "https://i.ibb.co/xFKqpYv/chef3.jpg"
+    },
+    {
+      "id": 2,
+      "chefName": "John Smith",
+      "yearsOfExperience": 8,
+      "numOfRecipes": 90,
+      "likes": 800,
+      "chefPicture": "https://i.ibb.co/MNMB73s/chef2.jpg"
+    },
+    {
+      "id": 3,
+      "chefName": "Alice Johnson",
+      "yearsOfExperience": 10,
+      "numOfRecipes": 120,
+      "likes": 1000,
+      "chefPicture": "https://i.ibb.co/M7vmFpF/chef4.jpg"
+    },
+    {
+      "id": 4,
+      "chefName": "Michael Williams",
+      "yearsOfExperience": 15,
+      "numOfRecipes": 180,
+      "likes": 1500,
+      "chefPicture": "https://i.ibb.co/M7vmFpF/chef4.jpg"
+    },
+    {
+      "id": 5,
+      "chefName": "Daniel Wilson",
+      "yearsOfExperience": 5,
+      "numOfRecipes": 70,
+      "likes": 600,
+      "chefPicture": "https://i.ibb.co/MNMB73s/chef2.jpg"
+    },
+    {
+      "id": 6,
+      "chefName": "Sophia Brown",
+      "yearsOfExperience": 7,
+      "numOfRecipes": 100,
+      "likes": 900,
+      "chefPicture": "https://i.ibb.co/xFKqpYv/chef3.jpg"
+    }
+  ]
+  
